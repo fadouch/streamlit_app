@@ -193,7 +193,6 @@ pyparsing
 PyPDF2
 pyphen
 pyproj
-PyQt5
 pyqt5-plugins
 PyQt5-Qt5
 PyQt5-sip
@@ -214,7 +213,6 @@ python-json-logger
 pythonnet
 pytz
 pywebview
-pywin32
 pywinpty
 PyYAML
 pyzmq
