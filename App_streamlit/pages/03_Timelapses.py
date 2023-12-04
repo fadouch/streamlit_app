@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
     # Construction du chemin des images en fonction de la sélection de l'utilisateur
     if selected_attribute == "humidity":
-        images = f'App_streamlit/cartes intepolees/carte_{selected_date}_humidity*.tif'
+        images = f'cartes intepolees/carte_{selected_date}_humidity*.tif'
         gif_filename = f'carte_{selected_date}_humidity.gif'
     elif selected_attribute == "precipitation":
         images = f'cartes intepolees/{selected_date}_precipitation*.tif'
