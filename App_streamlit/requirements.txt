@@ -68,7 +68,6 @@ fpdf
 fqdn
 fsspec
 future
-GDAL @ file:GDAL-3.4.3-cp311-cp311-win_amd64.whl
 gdown
 geographiclib
 geojson
