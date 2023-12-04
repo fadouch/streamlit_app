@@ -68,6 +68,7 @@ fpdf
 fqdn
 fsspec
 future
+GDAL
 gdown
 geographiclib
 geojson
